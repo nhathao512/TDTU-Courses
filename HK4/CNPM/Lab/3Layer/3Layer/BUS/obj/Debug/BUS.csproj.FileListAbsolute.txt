@@ -1,0 +1,11 @@
+E:\Phuoc\GUI\BUS\bin\Debug\BUS.dll
+E:\Phuoc\GUI\BUS\bin\Debug\BUS.pdb
+E:\Phuoc\GUI\BUS\bin\Debug\DAL.dll
+E:\Phuoc\GUI\BUS\bin\Debug\DTO.dll
+E:\Phuoc\GUI\BUS\bin\Debug\DAL.pdb
+E:\Phuoc\GUI\BUS\bin\Debug\DTO.pdb
+E:\Phuoc\GUI\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Phuoc\GUI\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Phuoc\GUI\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Phuoc\GUI\BUS\obj\Debug\BUS.dll
+E:\Phuoc\GUI\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,15 @@
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\bin\Debug\Lab3_Ca4_Thu6.exe.config
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\bin\Debug\Lab3_Ca4_Thu6.exe
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\bin\Debug\Lab3_Ca4_Thu6.pdb
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\obj\Debug\Lab3_Ca4_Thu6.csproj.AssemblyReference.cache
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\obj\Debug\Lab3_Ca4_Thu6.csproj.SuggestedBindingRedirects.cache
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\obj\Debug\Lab3_Ca4_Thu6.Form1.resources
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\obj\Debug\Lab3_Ca4_Thu6.Properties.Resources.resources
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\obj\Debug\Lab3_Ca4_Thu6.csproj.GenerateResource.cache
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\obj\Debug\Lab3_Ca4_Thu6.csproj.CoreCompileInputs.cache
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\obj\Debug\Lab3_Ca4_Thu6.exe
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\obj\Debug\Lab3_Ca4_Thu6.pdb
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\bin\Debug\BouncyCastle.Crypto.dll
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\bin\Debug\itextsharp.dll
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\bin\Debug\itextsharp.xml
+D:\Phuoc\TDTU\2022-2023\SEM2\SE\Code\Lab3_Ca4_Thu6\obj\Debug\Lab3_Ca4_Thu6.csproj.CopyComplete

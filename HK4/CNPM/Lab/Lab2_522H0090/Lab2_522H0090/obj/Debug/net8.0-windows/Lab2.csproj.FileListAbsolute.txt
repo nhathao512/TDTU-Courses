@@ -1,0 +1,72 @@
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.csproj.AssemblyReference.cache
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.Form1.resources
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.csproj.GenerateResource.cache
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.AssemblyInfoInputs.cache
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.AssemblyInfo.cs
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.csproj.CoreCompileInputs.cache
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\bin\Debug\net8.0-windows\Lab2.exe
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\bin\Debug\net8.0-windows\Lab2.deps.json
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\bin\Debug\net8.0-windows\Lab2.runtimeconfig.json
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\bin\Debug\net8.0-windows\Lab2.dll
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\bin\Debug\net8.0-windows\Lab2.pdb
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.csproj.CopyComplete
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.dll
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\obj\Debug\net8.0-windows\refint\Lab2.dll
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.pdb
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.genruntimeconfig.cache
+D:\HK2\Công Nghệ Phần Mềm\Lab2_522H0038\Lab2\Lab2\obj\Debug\net8.0-windows\ref\Lab2.dll
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\bin\Debug\net8.0-windows\Lab2.exe
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\bin\Debug\net8.0-windows\Lab2.deps.json
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\bin\Debug\net8.0-windows\Lab2.runtimeconfig.json
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\bin\Debug\net8.0-windows\Lab2.dll
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\bin\Debug\net8.0-windows\Lab2.pdb
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\obj\Debug\net8.0-windows\Lab2.csproj.AssemblyReference.cache
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\obj\Debug\net8.0-windows\Lab2.Form1.resources
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\obj\Debug\net8.0-windows\Lab2.csproj.GenerateResource.cache
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\obj\Debug\net8.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\obj\Debug\net8.0-windows\Lab2.AssemblyInfoInputs.cache
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\obj\Debug\net8.0-windows\Lab2.AssemblyInfo.cs
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\obj\Debug\net8.0-windows\Lab2.csproj.CoreCompileInputs.cache
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\obj\Debug\net8.0-windows\Lab2.csproj.CopyComplete
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\obj\Debug\net8.0-windows\Lab2.dll
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\obj\Debug\net8.0-windows\refint\Lab2.dll
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\obj\Debug\net8.0-windows\Lab2.pdb
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\obj\Debug\net8.0-windows\Lab2.genruntimeconfig.cache
+D:\CNPM_HK2_23_24\Lab_TH\Lab2\Lab2_522H0051\obj\Debug\net8.0-windows\ref\Lab2.dll
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\bin\Debug\net8.0-windows\Lab2.exe
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\bin\Debug\net8.0-windows\Lab2.deps.json
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\bin\Debug\net8.0-windows\Lab2.runtimeconfig.json
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\bin\Debug\net8.0-windows\Lab2.dll
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\bin\Debug\net8.0-windows\Lab2.pdb
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\obj\Debug\net8.0-windows\Lab2.csproj.AssemblyReference.cache
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\obj\Debug\net8.0-windows\Lab2.Form1.resources
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\obj\Debug\net8.0-windows\Lab2.csproj.GenerateResource.cache
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\obj\Debug\net8.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\obj\Debug\net8.0-windows\Lab2.AssemblyInfoInputs.cache
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\obj\Debug\net8.0-windows\Lab2.AssemblyInfo.cs
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\obj\Debug\net8.0-windows\Lab2.csproj.CoreCompileInputs.cache
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\obj\Debug\net8.0-windows\Lab2.csproj.Up2Date
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\obj\Debug\net8.0-windows\Lab2.dll
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\obj\Debug\net8.0-windows\refint\Lab2.dll
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\obj\Debug\net8.0-windows\Lab2.pdb
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\obj\Debug\net8.0-windows\Lab2.genruntimeconfig.cache
+D:\CNPM\Lab2_522H0090\Lab2_522H0090\obj\Debug\net8.0-windows\ref\Lab2.dll

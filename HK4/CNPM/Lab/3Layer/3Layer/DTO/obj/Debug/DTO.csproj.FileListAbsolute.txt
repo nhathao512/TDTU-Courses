@@ -1,0 +1,6 @@
+E:\Phuoc\GUI\DTO\bin\Debug\DTO.dll
+E:\Phuoc\GUI\DTO\bin\Debug\DTO.pdb
+E:\Phuoc\GUI\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Phuoc\GUI\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Phuoc\GUI\DTO\obj\Debug\DTO.dll
+E:\Phuoc\GUI\DTO\obj\Debug\DTO.pdb

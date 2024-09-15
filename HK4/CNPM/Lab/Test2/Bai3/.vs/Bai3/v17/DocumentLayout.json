@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK4\\CNPM\\Test2\\Bai3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DAL\\Connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\DAL\\Connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0006\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\522H0006\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0006\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\522H0006\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0006\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\522H0006\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DTO\\DTO_CTPM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\DTO\\DTO_CTPM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DAL\\DAL_MuonSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\DAL\\DAL_MuonSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DTO\\DTO.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\DTO\\DTO.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DTO\\DTO_MuonSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\DTO\\DTO_MuonSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0090\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\522H0090\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0090\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\522H0090\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0090\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\522H0090\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0090\\GUI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\522H0090\\GUI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DAL\\DAL_CTPM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\DAL\\DAL_CTPM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DAL\\DAL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\DAL\\DAL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\BUS\\BUS_MuonSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3\\BUS\\BUS_MuonSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 191,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0006\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3\\522H0006\\Program.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0006\\Program.cs",
+              "RelativeToolTip": "Bai3\\522H0006\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:50:56.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0006\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bai3\\522H0006\\Form1.Designer.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0006\\Form1.Designer.cs",
+              "RelativeToolTip": "Bai3\\522H0006\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:50:46.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0006\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai3\\522H0006\\Form1.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0006\\Form1.cs",
+              "RelativeToolTip": "Bai3\\522H0006\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:50:40.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0090\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3\\522H0090\\Program.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0090\\Program.cs",
+              "RelativeToolTip": "Bai3\\522H0090\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:45:56.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GUI.csproj",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0090\\GUI.csproj",
+              "RelativeDocumentMoniker": "Bai3\\522H0090\\GUI.csproj",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0090\\GUI.csproj",
+              "RelativeToolTip": "Bai3\\522H0090\\GUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T10:13:53.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0090\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai3\\522H0090\\Form1.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0090\\Form1.cs",
+              "RelativeToolTip": "Bai3\\522H0090\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:13:39.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTO_MuonSach.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DTO\\DTO_MuonSach.cs",
+              "RelativeDocumentMoniker": "Bai3\\DTO\\DTO_MuonSach.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DTO\\DTO_MuonSach.cs",
+              "RelativeToolTip": "Bai3\\DTO\\DTO_MuonSach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:13:33.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DTO_CTPM.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DTO\\DTO_CTPM.cs",
+              "RelativeDocumentMoniker": "Bai3\\DTO\\DTO_CTPM.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DTO\\DTO_CTPM.cs",
+              "RelativeToolTip": "Bai3\\DTO\\DTO_CTPM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:13:31.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DTO.csproj",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DTO\\DTO.csproj",
+              "RelativeDocumentMoniker": "Bai3\\DTO\\DTO.csproj",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DTO\\DTO.csproj",
+              "RelativeToolTip": "Bai3\\DTO\\DTO.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T10:13:30.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DAL\\Connection.cs",
+              "RelativeDocumentMoniker": "Bai3\\DAL\\Connection.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DAL\\Connection.cs",
+              "RelativeToolTip": "Bai3\\DAL\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:13:27.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DAL_CTPM.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DAL\\DAL_CTPM.cs",
+              "RelativeDocumentMoniker": "Bai3\\DAL\\DAL_CTPM.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DAL\\DAL_CTPM.cs",
+              "RelativeToolTip": "Bai3\\DAL\\DAL_CTPM.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:13:25.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAL_MuonSach.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DAL\\DAL_MuonSach.cs",
+              "RelativeDocumentMoniker": "Bai3\\DAL\\DAL_MuonSach.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DAL\\DAL_MuonSach.cs",
+              "RelativeToolTip": "Bai3\\DAL\\DAL_MuonSach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:13:18.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "Bai3\\DAL\\DAL.csproj",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\DAL\\DAL.csproj",
+              "RelativeToolTip": "Bai3\\DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T10:13:17.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BUS_MuonSach.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\BUS\\BUS_MuonSach.cs",
+              "RelativeDocumentMoniker": "Bai3\\BUS\\BUS_MuonSach.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\BUS\\BUS_MuonSach.cs",
+              "RelativeToolTip": "Bai3\\BUS\\BUS_MuonSach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:13:13.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0090\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bai3\\522H0090\\Form1.Designer.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Test2\\Bai3\\Bai3\\522H0090\\Form1.Designer.cs",
+              "RelativeToolTip": "Bai3\\522H0090\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:11:30.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

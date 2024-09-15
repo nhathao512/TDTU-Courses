@@ -1,0 +1,17 @@
+D:\HK4\CNPM\Lab8_Shift4\BUS\bin\Debug\net8.0\BUS.deps.json
+D:\HK4\CNPM\Lab8_Shift4\BUS\bin\Debug\net8.0\BUS.dll
+D:\HK4\CNPM\Lab8_Shift4\BUS\bin\Debug\net8.0\BUS.pdb
+D:\HK4\CNPM\Lab8_Shift4\BUS\bin\Debug\net8.0\DAL.dll
+D:\HK4\CNPM\Lab8_Shift4\BUS\bin\Debug\net8.0\DTO.dll
+D:\HK4\CNPM\Lab8_Shift4\BUS\bin\Debug\net8.0\DAL.pdb
+D:\HK4\CNPM\Lab8_Shift4\BUS\bin\Debug\net8.0\DTO.pdb
+D:\HK4\CNPM\Lab8_Shift4\BUS\obj\Debug\net8.0\BUS.csproj.AssemblyReference.cache
+D:\HK4\CNPM\Lab8_Shift4\BUS\obj\Debug\net8.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK4\CNPM\Lab8_Shift4\BUS\obj\Debug\net8.0\BUS.AssemblyInfoInputs.cache
+D:\HK4\CNPM\Lab8_Shift4\BUS\obj\Debug\net8.0\BUS.AssemblyInfo.cs
+D:\HK4\CNPM\Lab8_Shift4\BUS\obj\Debug\net8.0\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\CNPM\Lab8_Shift4\BUS\obj\Debug\net8.0\BUS.csproj.Up2Date
+D:\HK4\CNPM\Lab8_Shift4\BUS\obj\Debug\net8.0\BUS.dll
+D:\HK4\CNPM\Lab8_Shift4\BUS\obj\Debug\net8.0\refint\BUS.dll
+D:\HK4\CNPM\Lab8_Shift4\BUS\obj\Debug\net8.0\BUS.pdb
+D:\HK4\CNPM\Lab8_Shift4\BUS\obj\Debug\net8.0\ref\BUS.dll

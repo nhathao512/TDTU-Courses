@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK4\\CNPM\\Lab8_Shift4\\Lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13DE5A90-367B-4C38-B075-41D443DADD06}|GUI.csproj|d:\\hk4\\cnpm\\lab8_shift4\\lab8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DE5A90-367B-4C38-B075-41D443DADD06}|GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DE5A90-367B-4C38-B075-41D443DADD06}|Lab8.csproj|d:\\hk4\\cnpm\\lab8_shift4\\lab8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13DE5A90-367B-4C38-B075-41D443DADD06}|Lab8.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DE5A90-367B-4C38-B075-41D443DADD06}|GUI.csproj|d:\\hk4\\cnpm\\lab8_shift4\\lab8\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13DE5A90-367B-4C38-B075-41D443DADD06}|GUI.csproj|solutionrelative:gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E325B4D8-3EEF-45DA-B5A1-FEDE61F7D190}|..\\BUS\\BUS.csproj|d:\\hk4\\cnpm\\lab8_shift4\\bus\\bus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E325B4D8-3EEF-45DA-B5A1-FEDE61F7D190}|..\\BUS\\BUS.csproj|d:\\hk4\\cnpm\\lab8_shift4\\bus\\bus_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E527275-3FAD-4B33-ADBD-FBF013C001D0}|..\\DAL\\DAL.csproj|d:\\hk4\\cnpm\\lab8_shift4\\dal\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E527275-3FAD-4B33-ADBD-FBF013C001D0}|..\\DAL\\DAL.csproj|d:\\hk4\\cnpm\\lab8_shift4\\dal\\dal_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1643B5-112D-4324-8E55-8A51F0FDDA12}|..\\DTO\\DTO.csproj|d:\\hk4\\cnpm\\lab8_shift4\\dto\\dto_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 180,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GUI",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Lab8_Shift4\\Lab8\\GUI.csproj",
+              "RelativeDocumentMoniker": "GUI.csproj",
+              "ToolTip": "D:\\HK4\\CNPM\\Lab8_Shift4\\Lab8\\GUI.csproj",
+              "RelativeToolTip": "GUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T09:51:39.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Lab8_Shift4\\Lab8\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Lab8_Shift4\\Lab8\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:42:26.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BUS",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Lab8_Shift4\\BUS\\BUS.csproj",
+              "RelativeDocumentMoniker": "..\\BUS\\BUS.csproj",
+              "ToolTip": "D:\\HK4\\CNPM\\Lab8_Shift4\\BUS\\BUS.csproj",
+              "RelativeToolTip": "..\\BUS\\BUS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T09:39:07.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BUS_Project.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Lab8_Shift4\\BUS\\BUS_Project.cs",
+              "RelativeDocumentMoniker": "..\\BUS\\BUS_Project.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Lab8_Shift4\\BUS\\BUS_Project.cs",
+              "RelativeToolTip": "..\\BUS\\BUS_Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:36:24.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAL_Project.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Lab8_Shift4\\DAL\\DAL_Project.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DAL_Project.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Lab8_Shift4\\DAL\\DAL_Project.cs",
+              "RelativeToolTip": "..\\DAL\\DAL_Project.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:29:55.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Lab8_Shift4\\DAL\\Connection.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Connection.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Lab8_Shift4\\DAL\\Connection.cs",
+              "RelativeToolTip": "..\\DAL\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:25:22.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTO_Project.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Lab8_Shift4\\DTO\\DTO_Project.cs",
+              "RelativeDocumentMoniker": "..\\DTO\\DTO_Project.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Lab8_Shift4\\DTO\\DTO_Project.cs",
+              "RelativeToolTip": "..\\DTO\\DTO_Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:23:25.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\Lab8_Shift4\\Lab8\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\Lab8_Shift4\\Lab8\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:22:03.113Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

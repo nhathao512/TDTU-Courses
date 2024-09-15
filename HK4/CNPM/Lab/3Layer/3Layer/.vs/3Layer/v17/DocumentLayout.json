@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK4\\CNPM\\3Layer\\3Layer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C490EC5F-F2E8-42C7-82FE-890112D168EB}|BUS\\BUS.csproj|D:\\HK4\\CNPM\\3Layer\\3Layer\\bus\\bus_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C490EC5F-F2E8-42C7-82FE-890112D168EB}|BUS\\BUS.csproj|solutionrelative:bus\\bus_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1FE437-A17F-463C-B356-41B8F55C5870}|GUI\\GUI.csproj|D:\\HK4\\CNPM\\3Layer\\3Layer\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A1FE437-A17F-463C-B356-41B8F55C5870}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1FE437-A17F-463C-B356-41B8F55C5870}|GUI\\GUI.csproj|d:\\hk4\\cnpm\\3layer\\3layer\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1FE437-A17F-463C-B356-41B8F55C5870}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1FE437-A17F-463C-B356-41B8F55C5870}|GUI\\GUI.csproj|D:\\HK4\\CNPM\\3Layer\\3Layer\\gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1FE437-A17F-463C-B356-41B8F55C5870}|GUI\\GUI.csproj|solutionrelative:gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 180,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\3Layer\\3Layer\\GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.Designer.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\3Layer\\3Layer\\GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "GUI\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:56:38.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\3Layer\\3Layer\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\3Layer\\3Layer\\GUI\\Form1.cs",
+              "RelativeToolTip": "GUI\\Form1.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA5wDsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:33:58.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BUS_Project.cs",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\3Layer\\3Layer\\BUS\\BUS_Project.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_Project.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\3Layer\\3Layer\\BUS\\BUS_Project.cs",
+              "RelativeToolTip": "BUS\\BUS_Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:33:58.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\HK4\\CNPM\\3Layer\\3Layer\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "D:\\HK4\\CNPM\\3Layer\\3Layer\\GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:33:58.731Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
