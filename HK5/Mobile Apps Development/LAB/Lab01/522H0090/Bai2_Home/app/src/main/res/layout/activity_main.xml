@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginTop="30dp"
+        android:text="List of Checkboxes for selection" />
+    
+    <CheckBox
+        android:id="@+id/cbAndroid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Android"
+        android:checked="true"/>
+
+    <CheckBox
+        android:id="@+id/cbIos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="iOS"
+        android:checked="true"/>
+
+    <CheckBox
+        android:id="@+id/cbWin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Windows" />
+
+    <CheckBox
+        android:id="@+id/cbRim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RIM" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Click here to see Results"
+            android:textColor="#000"
+            android:backgroundTint="#D0D0D0"/>
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:backgroundTint="#D0D0D0"
+            android:layout_marginLeft="40dp"
+            android:text="NEXT PAGE"
+            android:textColor="#000" />
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/tvResults1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textSize="20dp"/>
+
+
+
+
+</LinearLayout>

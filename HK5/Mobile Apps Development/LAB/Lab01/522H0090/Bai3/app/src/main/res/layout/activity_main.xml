@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".MainActivity"
+android:orientation="vertical"
+android:padding="12dp">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:scrollbars="vertical"
+    android:layout_weight="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:padding="10dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:src="@drawable/image" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp">
+
+            <EditText
+                android:id="@+id/etFullName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:hint="Họ và tên"
+                android:inputType="textCapWords"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/etGioTinh"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:hint="Giới tính"
+                android:layout_marginTop="10dp"
+                android:textSize="20dp" />
+            <RadioGroup
+                android:id="@+id/radio1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/radioGTNam"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18dp"
+                    android:text="Nam" />
+                <RadioButton
+                    android:id="@+id/radioGTNu"
+                    android:text="Nữ"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18dp"
+                    android:layout_marginLeft="5dp" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/etYeuThich"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:hint="Yêu thích"
+                android:layout_marginTop="10dp"
+                android:textSize="20dp"/>
+            <RadioGroup
+                android:id="@+id/radio2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+                <RadioButton
+                    android:id="@+id/radioYTNam"
+                    android:text="Nam"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18dp" />
+                <RadioButton
+                    android:id="@+id/radioYTNu"
+                    android:text="Nữ"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18dp"
+                    android:layout_marginLeft="5dp" />
+                <RadioButton
+                    android:id="@+id/radioYTCaHai"
+                    android:text="Cả hai"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18dp"
+                    android:layout_marginLeft="5dp" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp">
+            <EditText
+                android:id="@+id/etEmail"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:hint="Email"
+                android:textSize="20dp"
+                android:inputType="textEmailAddress"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp">
+
+            <EditText
+                android:id="@+id/etAddress"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textSize="20dp"
+                android:hint="Địa chỉ"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/etSoThich"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:hint="Sở thích"
+                android:layout_marginTop="5dp"
+                android:textSize="20dp"/>
+            <CheckBox
+                android:id="@+id/chkBongDa"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bóng đá" />
+            <CheckBox
+                android:id="@+id/chkBoiLoi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bơi lội"
+                android:layout_marginLeft="5dp" />
+            <CheckBox
+                android:id="@+id/chkChayBo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chạy bộ"
+                android:layout_marginLeft="5dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/etKhaNang"
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:hint="Khả năng bơi"
+                android:textSize="20dp"
+                android:layout_gravity="center" />
+
+            <RatingBar
+                android:id="@+id/ratingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:layout_marginLeft="5dp"
+                android:stepSize="1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/etDiem"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:hint="Điểm TOEIC"
+                android:textSize="20dp"
+                android:layout_gravity="center" />
+
+            <SeekBar
+                android:id="@+id/seekBar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:max="198"
+                android:min="5"
+                android:scrollbarSize="20dp"
+
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/etNhanTB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Nhận thông báo qua email"
+                android:layout_gravity="center"
+                android:textSize="20dp" />
+            <Switch
+                android:id="@+id/switchTBao"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
+
+<Button
+    android:id="@+id/btnLuuTT"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:backgroundTint="#D0D0D0"
+    android:textColor="#000000"
+    android:textSize="18dp"
+    android:text="LƯU THÔNG TIN"/>
+
+</LinearLayout>

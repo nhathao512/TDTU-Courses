@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>Exercise 1</title>
+    
+</head>
+<body>
+    <form action="/result" method="get">
+        <table class="table-hover">
+            <tr>
+                <td>Số hạng 1</td>
+                <td><input type="number" name="num1" id="num1"></td>
+            </tr>
+            <tr>
+                <td>Số hạng 2</td>
+                <td><input type="number" name="num2" id="num2"></td>
+            </tr>
+            <tr>
+                <td>Phép tính</td>
+                <td>
+                    <select name="pheptinh" id="pheptinh">
+                        <option value="">Chọn phép tính</option>
+                        <option value="+">Cộng</option>
+                        <option value="-">Trừ</option>
+                        <option value="*">Nhân</option>
+                        <option value="/">Chia</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><button type="submit" class="btnTinh">Tính</button></td>
+            </tr>
+        </table>
+    </form>
+    
+</body>
+</html>

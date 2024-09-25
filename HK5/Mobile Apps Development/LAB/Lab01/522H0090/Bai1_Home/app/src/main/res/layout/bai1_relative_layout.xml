@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp">
+
+
+    <TextView
+        android:id="@+id/userTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Username"
+        android:textSize="20dp" />
+    
+    <EditText
+        android:id="@+id/user_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="admin"
+        android:layout_marginLeft="150dp" />
+
+    <TextView
+        android:id="@+id/passTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/userTV"
+        android:layout_marginTop="25dp"
+        android:text="Password"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/user_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="••••••"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="150dp"
+        android:layout_below="@id/userTV" />
+
+    <CheckBox
+        android:id="@+id/cb_remem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/passTV"
+        android:text="Remember me"
+        android:textSize="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="150dp"/>
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cb_remem"
+        android:backgroundTint="#DDD5D5"
+        android:text="LOGIN"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+
+
+</RelativeLayout>
