@@ -19,7 +19,7 @@ const server = http.createServer((req, res) => {
         return processLogin(req, res)
     }
 
-    let html = fs.readFileSync(path.join(__dirname, '/error.html')).toString().replace('replace', 'Invalid Path');
+    let html = fs.readFileSync(path.join(__dirname, '/error.html')).toString().replace('replace', 'Đường dẫn không hợp lệ');
     return res.end(html)
 
 });

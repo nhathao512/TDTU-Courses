@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="24dp"
+        android:text="Nhập đường link trang web" />
+
+    <EditText
+        android:id="@+id/et_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="10dp"
+        android:textSize="24dp"
+        android:inputType="textUri"
+        android:singleLine="true"
+        android:textAlignment="center"
+        android:hint="Nhập đường link" />
+
+    <Button
+        android:id="@+id/btn_Open"
+        android:layout_width="wrap_content"
+        android:layout_height="59dp"
+        android:layout_margin="10dp"
+        android:backgroundTint="#DDD5D5"
+        android:text="Mở trình duyệt"
+        android:textAllCaps="true"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+</LinearLayout>
