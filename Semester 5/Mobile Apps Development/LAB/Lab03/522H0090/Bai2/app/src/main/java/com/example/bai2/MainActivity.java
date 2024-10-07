@@ -37,9 +37,15 @@ public class MainActivity extends AppCompatActivity {
         btn_Open.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent url = new Intent(Intent.ACTION_VIEW, Uri.parse(
+                String url = et_content.getText().toString();
+                if (!url.startsWith("http://") && !url.startsWith("https://")) {
+                    url = "https://" + url;
+                }
+                Intent myBrowser = new Intent(Intent.ACTION_VIEW, Uri.parse(
                         "https://" + et_content.getText().toString()));
-                startActivity(url);
+                startActivity(myBrowser);
+
+
             }
         });
     }

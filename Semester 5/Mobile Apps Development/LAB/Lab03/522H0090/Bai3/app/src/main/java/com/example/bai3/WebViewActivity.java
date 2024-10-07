@@ -19,22 +19,10 @@ public class WebViewActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_web_view);
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
-            Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
-            return insets;
-        });
+
 
         webview = findViewById(R.id.webview);
-
-        WebSettings web = webview.getSettings();
-        web.setJavaScriptEnabled(true);
-
         webview.setWebViewClient(new WebViewClient());
-
-        String url = getIntent().getDataString();
-        if (url != null) {
-            webview.loadUrl(url);
-        }
+        webview.loadUrl(getIntent().getData().toString());
     }
 }

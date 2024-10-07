@@ -43,10 +43,15 @@ public class MainActivity extends AppCompatActivity {
                     url = "https://" + url;
                 }
 
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
+                Intent myBrowser = new Intent(MainActivity.this, WebViewActivity.class);
+                myBrowser.setData(Uri.parse(url));
 
-                Intent chooser = Intent.createChooser(intent, "Mở bằng");
-                startActivity(chooser);
+                Intent browser = new Intent(Intent.ACTION_VIEW);
+                browser.setData(Uri.parse(url));
+
+                Intent i2 = Intent.createChooser(browser, "Choose browser");
+                i2.putExtra(Intent.EXTRA_INITIAL_INTENTS, new Intent[]{myBrowser});
+                startActivity(i2);
             }
         });
     }

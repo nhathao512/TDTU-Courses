@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
             tv_content.setText("Hẹn gặp lại");
             et_content.setText(ten);
             et_content.setVisibility(View.VISIBLE);
-            btn_Login.setVisibility(View.GONE);
+            btn_Login.setVisibility(View.INVISIBLE);
         }
     }
 
