@@ -5,7 +5,7 @@
 <table>
   <th>
   <td>
-    <img src="https://github.com/user-attachments/assets/720d5bef-c07b-4930-9f8a-d8150431d184" alt="logo" width="500px" />
+    <img src="https://github.com/user-attachments/assets/720d5bef-c07b-4930-9f8a-d8150431d184" alt="logo" width="100%" />
   </td>
   <td>
     <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
