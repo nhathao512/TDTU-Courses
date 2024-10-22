@@ -1,0 +1,12 @@
+- Tìm kiếm phim
+- Xem lịch chiếu
+- Chọn ghế ngồi
+- Đặt vé (Mua vé)
+- Quản lý tài khoản
+- Xem thông tin phim
+- Đánh giá
+- Thanh toán
+- Hỗ trợ khách hàng
+- Gợi ý phim 
+- Xem trailer
+- Chia sẽ social
