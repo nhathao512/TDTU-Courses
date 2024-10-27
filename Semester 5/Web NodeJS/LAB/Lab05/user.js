@@ -1,6 +1,5 @@
 const https = require('https');
 
-// Hàm lấy danh sách người dùng
 function getUsers() {
     return new Promise((resolve, reject) => {
         const options = {
@@ -14,7 +13,7 @@ function getUsers() {
             let data = '';
             res.on('data', (chunk) => data += chunk);
             res.on('end', () => {
-                resolve(JSON.parse(data)); // Chuyển đổi chuỗi JSON thành object
+                resolve(JSON.parse(data));
             });
         });
 
